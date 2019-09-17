@@ -1,4 +1,4 @@
-(defproject too-hot "1.0.0"
+(defproject rosineygp/too-hot "1.0.0"
   :description "A very simple Fahrenheit to Celsius converter."
   :url "https://github.com/rosineygp/too-hot"
   :license {:name "Eclipse Public License"
